@@ -10,7 +10,7 @@
 
 缺字漏字請按二……
 
-後面的話全忘了。
+……另開議題請掉頭。
 
 《[IPA開放字型授權協議 1.0版](LICENSE_CHI.md)（[IPA Open Font License v1.0](LICENSE.md#ipa-font-license-agreement-v10)，[IPAフォントライセンスv1.0](LICENSE.md)）》
 
@@ -22,6 +22,6 @@ I.明體全體作者
 
 華英明朝作者
 
-霞鶩新致宋CHS作者
+霞鶩新致宋 簡作者
 
 獨立行政法人情報處理推進機構（IPA系列字體製作方及版權方）
